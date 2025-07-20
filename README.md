@@ -35,13 +35,13 @@ Users can explore the effects of rotating various 3D shapes around the **Y-axis*
 
 ```bash
 pip install -r requirements_matplotlib.txt
-python shape_rotation_matplotlib.py
+python projection_matplotlib.py
 ```
 
 ### 🎮 Pygame Version
 ``` bash
 pip install -r requirements_pygame.txt
-python shape_rotation_pygame.py
+python projection_pygame.py
 ```
 
 ---
