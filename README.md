@@ -31,16 +31,19 @@ Users can explore the effects of rotating various 3D shapes around the **Y-axis*
 
 ## 🛠️ How to Run
 
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
 ### 📊 Matplotlib Version
 
 ```bash
-pip install -r requirements_matplotlib.txt
 python projection_matplotlib.py
 ```
 
 ### 🎮 Pygame Version
 ``` bash
-pip install -r requirements_pygame.txt
 python projection_pygame.py
 ```
 
